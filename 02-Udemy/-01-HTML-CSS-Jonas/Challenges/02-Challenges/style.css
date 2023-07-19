@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* page section */
+
+body {
+  font-family: sans-serif;
+  line-height: 1.4;
+  /* position: relative; */
+}
+
+.container {
+  /* position: relative; */
+}
+
+.product {
+  width: 825px;
+  border: 4px solid #000;
+  font-family: sans-serif;
+  margin: 20px;
+  margin: 50px auto;
+  position: relative;
+}
+
+.product-title {
+  text-align: center;
+  background-color: #f7f7f7;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 22px;
+  padding: 15px;
+}
+
+.price {
+  /* margin-bottom: 20px; */
+  font-size: 24px;
+  /* font-weight: bold; */
+}
+
+.free {
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-size: 12px;
+  color: #777;
+  font-weight: bold;
+}
+
+.more-info:link,
+.more-info:visited {
+  color: #000;
+  margin-bottom: 30px;
+  display: inline-block;
+}
+
+.more-info:hover,
+.more-info:active {
+  text-decoration: none;
+}
+
+.details-title {
+  /* font-weight: bold; */
+  font-size: 16px;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+  margin-top: 30px;
+}
+
+.details.list {
+  /* font-size: 16px; */
+  list-style: square;
+}
+
+.details-list li {
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+
+.add-cart {
+  text-transform: uppercase;
+  border-top: 4px solid #000;
+
+  background-color: #000;
+  color: #fff;
+  font-size: 20px;
+  cursor: pointer;
+  width: 100%;
+  padding: 15px;
+}
+
+.add-cart:hover {
+  background-color: #fff;
+  color: #000;
+
+  /* border: none; */
+}
+
+.sale {
+  position: absolute;
+  display: inline-block;
+  background-color: red;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: bold;
+  color: #fff;
+  padding: 7px 15px;
+  text-align: center;
+  top: -17px;
+  left: -38px;
+  letter-spacing: 2px;
+}
+
+.color {
+  background-color: #000;
+  height: 22px;
+  width: 22px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
+
+.brown {
+  background-color: brown;
+}
