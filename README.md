@@ -97,10 +97,10 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 # Projects
 
-![100%](https://progress-bar.dev/0/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 |status| Project | Technologies | Repository | Demo |
 | --- | -------- | ------------ | --------------------------------------------- | ---- |
-| [x] | Project 1| HTML CSS | [Appie](https://github.com/AmineHeroual/Appie-Project) | [Demo](https://amine-appie.netlify.app/) |
-| [x] | Project 2| HTML CSS JS | [Kanban Board](https://github.com/AmineHeroual/kanban-board)| [Demo](https://kanban-board-mocha.vercel.app/) |
-| [x] | Project 3| React js | [Car Agency](https://github.com/AmineHeroual/you-car) | [Demo](https://you-car.vercel.app/) |
-| [x] | Project 4| MERN | [Note App](https://github.com/AmineHeroual/younotes-production) | [Demo](https://mern-your-notes.onrender.com/) |
+| [x] `Done`| Project 1| HTML CSS | [Appie](https://github.com/AmineHeroual/Appie-Project) | [Demo](https://amine-appie.netlify.app/) |
+| [x] `Done`| Project 2| HTML CSS JS | [Kanban Board](https://github.com/AmineHeroual/kanban-board)| [Demo](https://kanban-board-mocha.vercel.app/) |
+| [x] `Done`| Project 3| React js | [Car Agency](https://github.com/AmineHeroual/you-car) | [Demo](https://you-car.vercel.app/) |
+| [x] `Done`| Project 4| MERN | [Note App](https://github.com/AmineHeroual/younotes-production) | [Demo](https://mern-your-notes.onrender.com/) |
